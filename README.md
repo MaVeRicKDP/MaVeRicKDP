@@ -1,5 +1,14 @@
 # 💫 About Me:
-Dipesh Poudel<br> Web Developer | MERN Stack Enthusiast<br><br>As a passionate web developer, I specialize in creating scalable and dynamic web applications using the MERN stack. I am currently advancing my skills in MERN technologies while maintaining a foundational understanding of .NET, Python, Flutter, JavaScript, and WordPress development !
+**Dipesh Poudel** *IT & Technical Support Associate | Aspiring DevOps & Cloud Professional
+📍 Kathmandu, Nepal 
+📧 [iamdpacep@gmail.com](mailto:iamdpacep@gmail.com)
+
+I am a Technical Support Associate at **IMS Software** with a background in **Web Development (MERN Stack)**. I specialize in bridging the gap between software and infrastructure—resolving complex production issues, managing SQL databases, and automating system tasks.
+
+- 🛠️ Currently managing **250+ production issues** and SQL data corrections.
+- ⚡ Expert in **SSMS** for backend validation and data management.
+- 🤖 Automating backups using **PowerShell**, **AWS CLI**, and **Windows Task Scheduler**.
+- 🌐 Passionate about building scalable apps with **React**, **Node.js**, and **WordPress**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_dipess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-poudel-21150b200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamdpacep@gmail.com) 
